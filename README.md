@@ -8,4 +8,4 @@ This is a project that is meant to practice some basic HTML code. The basics of 
 - Including images in a webpage.
 - Linking external and local web pages together.
 
-The website itself is a simple website that provides some information on simple recipes that have eggs as its primary ingredient. 
+The website itself is a simple website that provides some information on simple recipes that have eggs as its primary ingredient. The source of the recipes can be found at https://www.bbcgoodfood.com/search?q=eggs. For more recipes, visit their website. 
